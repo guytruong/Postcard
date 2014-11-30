@@ -13,6 +13,7 @@
                         <viewControllerLayoutGuide type="bottom" id="Bvr-Bv-aFK"/>
                     </layoutGuides>
                     <view key="view" contentMode="scaleToFill" id="aQ5-Ah-d9B">
+                        <rect key="frame" x="0.0" y="0.0" width="600" height="600"/>
                         <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
                         <subviews>
                             <imageView userInteractionEnabled="NO" contentMode="redraw" horizontalHuggingPriority="251" verticalHuggingPriority="251" image="building.jpg" translatesAutoresizingMaskIntoConstraints="NO" id="wVG-1Y-L2s">

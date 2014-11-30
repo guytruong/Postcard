@@ -5,13 +5,13 @@
 	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
 	<false/>
 	<key>IDESourceControlProjectIdentifier</key>
-	<string>0BA391DF-7F71-431F-85D9-350CACB38D6A</string>
+	<string>66128B7E-7042-478B-90B0-A132A2B5898D</string>
 	<key>IDESourceControlProjectName</key>
 	<string>Postcard</string>
 	<key>IDESourceControlProjectOriginsDictionary</key>
 	<dict>
 		<key>5107C5683460E2720A7C6AFA8E974A630E5E0B13</key>
-		<string>github.com:guytruong/Postcard.git</string>
+		<string>https://github.com/guytruong/Postcard.git</string>
 	</dict>
 	<key>IDESourceControlProjectPath</key>
 	<string>Postcard.xcodeproj</string>
@@ -21,7 +21,7 @@
 		<string>../..</string>
 	</dict>
 	<key>IDESourceControlProjectURL</key>
-	<string>github.com:guytruong/Postcard.git</string>
+	<string>https://github.com/guytruong/Postcard.git</string>
 	<key>IDESourceControlProjectVersion</key>
 	<integer>111</integer>
 	<key>IDESourceControlProjectWCCIdentifier</key>
@@ -34,7 +34,7 @@
 			<key>IDESourceControlWCCIdentifierKey</key>
 			<string>5107C5683460E2720A7C6AFA8E974A630E5E0B13</string>
 			<key>IDESourceControlWCCName</key>
-			<string>Postcard</string>
+			<string>postcard</string>
 		</dict>
 	</array>
 </dict>
